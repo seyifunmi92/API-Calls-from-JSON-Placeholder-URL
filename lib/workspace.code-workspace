@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Saleo"
+		},
+		{
+			"path": "../../beststar"
+		},
+		{
+			"path": "../../coredata"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../finalapi"
+		}
+	],
+	"settings": {}
+}
